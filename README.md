@@ -17,5 +17,5 @@ How to run?
 ```
 $ cd api.tweet.tv
 $ workon api.tweet.tv
-$ python api.py {{url}}
+$ python main.py {{url}}
 ```
